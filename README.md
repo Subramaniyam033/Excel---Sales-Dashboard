@@ -1,4 +1,8 @@
+
+
 This repository features an interactive **Sales Analysis Dashboard** built in **Microsoft Excel** using Power Pivot, Power Query, and advanced visualization tools. It delivers actionable insights into sales performance across categories, products, occasions, and time periods.
+
+![Dashboard Screenshot](Sales-Dashboard.png)
 
 ---
 
